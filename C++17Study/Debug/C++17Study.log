@@ -1,2 +1,4 @@
-﻿  Clarification_func_except_type.cpp
+﻿  26_attributes.cpp
+c:\users\sjrnf\desktop\coding\c++17 공부\c++17study\c++17study\26_attributes.cpp(37): warning C4996: 'GoodFunc': use AwesomeFunc instead
+  c:\users\sjrnf\desktop\coding\c++17 공부\c++17study\c++17study\26_attributes.cpp(6): note: see declaration of 'GoodFunc'
   C++17Study.vcxproj -> C:\Users\sjrnf\Desktop\coding\C++17 공부\C++17Study\Debug\C++17Study.exe
